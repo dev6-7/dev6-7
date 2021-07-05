@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Albert!
 
-#### Many years im working in IT and try to find myself, a lot of time im worked with backend java projects and a little with frontend js, jQuery, react, typescript, angular. Sometimes i worked and with CI, set up projects in docker and kubernetes. Sometimes i wrote easy python, bash utilities. Now i know that i can learn anything, the only question is what brings me more pleasure and fun. I want focus on frontend only, because as I remember this direction brings me more.
+#### Many years im working in IT and try to find myself, a lot of time im worked with backend java projects and a little with frontend js, jQuery, react, typescript, angular. Sometimes i worked and with CI, set up projects in docker and kubernetes. Sometimes i wrote easy python, bash utilities. Now i know that i can learn anything, the only question is what brings me more pleasure and fun.
 #### Lets see.
 ---
 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="50"/>
 ---
 
 ---
