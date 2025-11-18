@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Albert!
 
-#### Usually I don’t have time to work on pet projects because I’m fully focused on my current job. But there’s always hope 😄
+#### Usually I don’t have time to work on pet projects because I’m fully focused on my current job. 
+#### But there’s always hope 😄
 ---
 
 🧰 Toolbox
